@@ -1,0 +1,14 @@
+* {
+  scroll-behavior: smooth;
+}
+
+ion-note {
+  display: inline-block;
+  font-size: 16px;
+
+  color: var(--ion-color-medium-shade, #666666);
+}
+
+ion-menu.split-pane-side {
+  --side-max-width: 16%;
+}

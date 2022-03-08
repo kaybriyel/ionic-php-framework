@@ -1,0 +1,7 @@
+* {
+  scroll-behavior: smooth;
+}
+
+ion-menu.split-pane-side {
+  --side-max-width: 16%;
+}
